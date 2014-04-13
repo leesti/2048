@@ -332,44 +332,19 @@ hr {
     background: url('../villans/64.jpg'); }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
-    background: url('../villans/128.jpg');
-    box-shadow: 0 0 30px 10px rgba(255, 255, 155, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
-    font-size: 1px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-128 .tile-inner {
-        font-size: 1px; } }
+    background: url('../villans/128.jpg');}
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
-    background: url('../villans/256.jpg');
-    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
-    font-size: 1px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-256 .tile-inner {
-        font-size: 1px; } }
+    background: url('../villans/256.jpg');}
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
-    background: url('../villans/512.jpg');
-    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
-    font-size: 1px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-512 .tile-inner {
-        font-size: 1px; } }
+    background: url('../villans/512.jpg');}
   .tile.tile-1024 .tile-inner {
     color: #f9f6f2;
-    background: url('../villans/1024.jpg');
-    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.), inset 0 0 0 1px rgba(255, 255, 255, 0);
-    font-size: 1px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-1024 .tile-inner {
-        font-size: 1px; } }
+    background: url('../villans/1024.jpg');}
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
-    background: url('../villans/2048.jpg');
-    box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
-    font-size: 1px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-2048 .tile-inner {
-        font-size: 15px; } }
+    background: url('../villans/2048.jpg');}
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;
